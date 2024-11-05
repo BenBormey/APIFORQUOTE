@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIQoute", "APIQoute\APIQoute.csproj", "{B3456C50-3AAF-4D09-9E10-78DD480DC539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3456C50-3AAF-4D09-9E10-78DD480DC539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3456C50-3AAF-4D09-9E10-78DD480DC539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3456C50-3AAF-4D09-9E10-78DD480DC539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3456C50-3AAF-4D09-9E10-78DD480DC539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5940E1E8-F747-49F6-877E-E5F1FE11A927}
+	EndGlobalSection
+EndGlobal
